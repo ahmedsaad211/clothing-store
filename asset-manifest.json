@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/clothing-store/static/css/main.7abc21f2.css",
+    "main.js": "/clothing-store/static/js/main.d265437e.js",
+    "static/js/488.9373abd4.chunk.js": "/clothing-store/static/js/488.9373abd4.chunk.js",
+    "static/media/170627-better-grocery-store-main-se-539p.webp": "/clothing-store/static/media/170627-better-grocery-store-main-se-539p.0f2608fca970b500402c.webp",
+    "index.html": "/clothing-store/index.html",
+    "main.7abc21f2.css.map": "/clothing-store/static/css/main.7abc21f2.css.map",
+    "main.d265437e.js.map": "/clothing-store/static/js/main.d265437e.js.map",
+    "488.9373abd4.chunk.js.map": "/clothing-store/static/js/488.9373abd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7abc21f2.css",
+    "static/js/main.d265437e.js"
+  ]
+}
