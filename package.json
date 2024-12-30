@@ -1,7 +1,5 @@
 {
   "homepage": "https://ahmedsaad211.github.io/clothing-store",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
   "name": "clothing-store",
   "version": "0.1.0",
   "private": true,
