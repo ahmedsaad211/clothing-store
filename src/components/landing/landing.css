@@ -1,0 +1,21 @@
+.landing-page{
+    background-image: url("./170627-better-grocery-store-main-se-539p.webp");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.content{
+    width: 300px;
+    height: 150px;
+    background-color: rgba(0, 0, 0, 0.403);
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.text1{
+    color: rgba(255, 255, 255, 0.5);
+}
